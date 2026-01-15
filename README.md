@@ -28,11 +28,17 @@ real time based using gradio and hugging face.
 
 ## 📂 Project Structure
 Fake-News-Detection/
+
 │── fake_news_detection.ipynb
+
 │── dataset/
+
 │ ├── Fake.csv
+
 │ └── True.csv
+
 │── README.md
+
 
 
 ---
