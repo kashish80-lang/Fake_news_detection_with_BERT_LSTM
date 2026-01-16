@@ -13,12 +13,15 @@ Used LSTM AND BERT together to improve accuracy.
 real time based using gradio and hugging face.
 ## 📸 Project Screenshot
 
-![Fake News Detection Output_fake](screenshots/fake.png)
-![Fake News Detection Output_real](screenshots/real.png)
+### Fake News Prediction
+![Fake News Detection Output](screenshots/fake.png)
+
+
+### Real News Prediction
+![Real News Detection Output](screenshots/Real.png)
 
 
 
----
 
 ## ✨ Features
 - Text preprocessing and cleaning
