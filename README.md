@@ -11,17 +11,24 @@ With the rapid spread of misinformation on social media and news platforms, iden
 This system classifies news articles as **Fake** or **Real** based on their textual content.
 Used LSTM AND BERT together to improve accuracy.
 real time based using gradio and hugging face.
+## 📸 Project Screenshot
+
+![Fake News Detection Output_fake](screenshots/fake.png)
+![Fake News Detection Output_real](screenshots/real.png)
+
+
 
 ---
 
 ## ✨ Features
 - Text preprocessing and cleaning
 - Stopword removal and tokenization
-- Feature extraction using **TF-IDF / Count Vectorizer**
+- Feature extraction 
 - Machine Learning models:
   - Logistic Regression
-  - Naive Bayes
-  - Passive Aggressive Classifier
+  - GRU
+  - GRU+LSTM
+  - BERT+LSTM
 - Model evaluation using accuracy and confusion matrix
 
 ---
